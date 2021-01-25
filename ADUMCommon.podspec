@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ADUMCommon'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'ADUMCommon.'
   s.description      = 'ADUMCommon description'
   s.homepage         = 'https://github.com/goodswifter/ADUMCommon'
@@ -9,6 +9,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/goodswifter/ADUMCommon.git', :tag => s.version.to_s }
   s.platform = :ios, '9.0'
   s.source_files = 'ADUMCommon/Classes/**/*'
+  s.dependency 'UMCommon'
   
   # s.resource_bundles = {
   #   'ADUMCommon' => ['ADUMCommon/Assets/*.png']
