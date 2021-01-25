@@ -1,10 +1,12 @@
-#use_frameworks!
+use_frameworks!
 
 platform :ios, '9.0'
 
 target 'ADUMCommon_Example' do
   pod 'ADUMCommon', :path => '../'
 
+#  pod 'UMCommon'
+  
   target 'ADUMCommon_Tests' do
     inherit! :search_paths
 

@@ -8,7 +8,7 @@
 #ifndef ADCommonHeader_h
 #define ADCommonHeader_h
 
-#import <UMCommon/UMCommon.h>
-#import <UMDevice/UMDevice.h>
+//#import <UMCommon/UMCommon.h>
+//#import <UMDevice/UMDevice.h>
 
 #endif /* ADCommonHeader_h */
