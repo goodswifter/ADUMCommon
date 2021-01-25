@@ -1,6 +1,7 @@
 PODS:
   - ADUMCommon (0.1.2):
     - UMCommon
+    - UMDevice
   - UMCommon (7.2.5):
     - UMDevice
   - UMDevice (1.1.0)
@@ -18,7 +19,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ADUMCommon: aa4a1b531781df89baa17506509cfa02598a690b
+  ADUMCommon: 286601c9017e99706c53a8efc2c868cc2a3aaf6e
   UMCommon: b5aabdb9fad44330ff8738d9bc46ebf93db14bf2
   UMDevice: 28d21a568c8e8322e5a03bbd53b138d0c098d3b3
 
