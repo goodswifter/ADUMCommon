@@ -1,0 +1,16 @@
+PODS:
+  - ADUMCommon (0.1.0)
+
+DEPENDENCIES:
+  - ADUMCommon (from `../`)
+
+EXTERNAL SOURCES:
+  ADUMCommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADUMCommon: bd6bedcbf879ef830b555a3623d48817d79a4719
+
+PODFILE CHECKSUM: 3a6545eda64a087798e95e0c94cea940a8133979
+
+COCOAPODS: 1.10.1
